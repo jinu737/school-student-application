@@ -18,6 +18,8 @@ This application codebase hosts several applications simultaneously. The routes 
 * Run migrate command to migrate the database - php artisan migrate.
 * run the server to serve the application - php -S localhost:8000 -t public.
 * Create the Student and the data can be further edited or deleted.
+* To run the application use the browser to navitgate to http://localhost:8000/
+* User can further use the application.
 
 # Features
 * CRUD functionality using RestAPI
